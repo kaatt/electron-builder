@@ -1540,6 +1540,7 @@ __metadata:
     fs-extra: ^9.0.1
     globby: ^11.0.1
     jest-cli: ^26.4.2
+    jest-environment-node-debug: ^2.0.0
     jsdoc-to-markdown: ^6.0.1
     ts-babel: 6.1.7
     ts-jsdoc: ^3.1.1
@@ -3203,7 +3204,7 @@ __metadata:
     bluebird-lst: ^1.0.9
     builder-util-runtime: "workspace:*"
     chalk: ^4.1.0
-    debug: ^4.3.0
+    debug: ^4.2.0
     fs-extra: ^9.0.1
     is-ci: ^2.0.0
     js-yaml: ^3.14.0
@@ -3810,7 +3811,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:^4.0.1, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.0":
+"debug@npm:^4.0.1, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.2.0, debug@npm:^4.3.0":
   version: 4.3.0
   resolution: "debug@npm:4.3.0"
   dependencies:
@@ -5984,6 +5985,13 @@ __metadata:
     jest-util: ^26.3.0
     jsdom: ^16.2.2
   checksum: dd43fd161ef1eb9e483e1917ab73fb9802f91877842b97c2844f9ea718a62ab1719b5297326427f6aff112e4d94807f445c7e213a14c23b8239e1ac43747ce88
+  languageName: node
+  linkType: hard
+
+"jest-environment-node-debug@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "jest-environment-node-debug@npm:2.0.0"
+  checksum: a99397cbc2d9a5141392173a417f5254f19a5cc50634cd65fade3c0e97d262563ff9fae33efe6aa1074e9507218cb7eae6c0ead709f0cc4f4326c3bd680d205e
   languageName: node
   linkType: hard
 
