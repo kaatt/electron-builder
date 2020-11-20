@@ -54,8 +54,5 @@
   "eslintIgnore": [
     "*.d.ts",
     "out"
-  ],
-  "devDependencies": {
-    "jest-environment-node-debug": "^2.0.0"
-  }
+  ]
 }
