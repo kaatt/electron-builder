@@ -11,20 +11,20 @@ Object {
   "files": Object {
     "index.html": Object {
       "offset": "0",
-      "size": 378,
+      "size": 391,
     },
     "index.js": Object {
-      "offset": "378",
-      "size": 619,
+      "offset": "391",
+      "size": 650,
     },
     "package.json": Object {
-      "offset": "997",
-      "size": 224,
+      "offset": "1041",
+      "size": 233,
     },
     "path": Object {
       "files": Object {
         "app.asar": Object {
-          "offset": "1221",
+          "offset": "1274",
           "size": 714,
         },
       },
